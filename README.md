@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Justin Roy
 
-Aspiring Web Developer 💻 | 1st Year CSE Student 🧑‍🎓 | µLearn Karma Climber 🚀
+Aspiring Web & software developer
 
 Welcome to my GitHub Profile! I’m currently exploring web development with a focus on **pure HTML**, and this profile tracks my learning journey. 🛠️
 
