@@ -15,7 +15,7 @@ Hey! I’m a curious CSE student who loves building random stuff, learning by do
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=justinroy-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=justinroy-01&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=justinroy-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=justinroy-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=14400)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=justinroy-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
