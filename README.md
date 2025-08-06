@@ -1,15 +1,21 @@
 # 👋 Hey there! I'm Justin
 
 Aspiring Web & Software Developer  
-Welcome to my GitHub Profile!  
+Welcome to my GitHub Profile!
+
+---
 
 # 💫 About Me:
-Hey! I’m a curious CSE student who loves building random stuff, learning by doing, and breaking things till they work 😄<br>
+Hey! I’m a curious CSE student who loves building random stuff, learning by doing, and breaking things till they work 😄
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justinroy_____)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justinroy01)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:justinr32274@gmail.com)  
+---
+
+## 🌐 Connect with Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/justinroy_____)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinroy01)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:justinr32274@gmail.com)
+
+---
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
@@ -34,18 +40,30 @@ Hey! I’m a curious CSE student who loves building random stuff, learning by do
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=justinroy-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=justinroy-01&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=justinroy-01&theme=tokyonight&hide_border=false&layout=compact)
+
+<!-- Custom Vercel-deployed GitHub stats -->
+<img src="https://github-readme-stats-seven-drab-30.vercel.app/api?username=justinroy-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Justin's GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=justinroy-01&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinroy-01&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+
+---
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=justinroy-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 Top Contributed Repo:
+---
+
+## 🔝 Top Contributed Repos:
 ![](https://github-contributor-stats.vercel.app/api?username=justinroy-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
