@@ -47,7 +47,6 @@ Hey! I’m a curious CSE student who loves building random stuff, learning by do
 <!-- Custom Vercel-deployed GitHub stats -->
 <img src="https://github-readme-stats-seven-drab-30.vercel.app/api?username=justinroy-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Justin's GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=justinroy-01&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinroy-01&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 
