@@ -42,6 +42,8 @@ Hey! I’m a curious CSE student who loves building random stuff, learning by do
 
 ---
 
+https://leetcard.jacoblin.cool/justin_roy?ext=heatmap
+
 # 📊 GitHub Stats:
 
 <!-- Custom Vercel-deployed GitHub stats -->
