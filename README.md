@@ -58,6 +58,8 @@ Hey! I’m a curious CSE student who loves building random stuff, learning by do
 ![](https://github-profile-trophy.vercel.app/?username=justinroy-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+![Aactivity graph](https://github-readme-activity-graph.vercel.app/graph?username=justin-roy01&theme=tokyo-night)
+
 
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
