@@ -1,12 +1,12 @@
 # 👋 Hey there! I'm Justin
 
 Aspiring Web & Software Developer  
-Welcome to my GitHub Profile!
+Welcome to my humble profile 😁
 
 ---
 
 # 💫 About Me:
-Hey! I’m a curious CSE student who loves building random stuff, learning by doing, and breaking things till they work 😄
+I’m a curious CSE student who loves building random stuff, learning by doing, and breaking things till they work 😄
 
 ---
 
@@ -23,8 +23,6 @@ Hey! I’m a curious CSE student who loves building random stuff, learning by do
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
@@ -32,10 +30,6 @@ Hey! I’m a curious CSE student who loves building random stuff, learning by do
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
@@ -46,7 +40,6 @@ Hey! I’m a curious CSE student who loves building random stuff, learning by do
 
 # 📊 GitHub Stats:
 
-<!-- Custom Vercel-deployed GitHub stats -->
 <img src="https://github-readme-stats-seven-drab-30.vercel.app/api?username=justinroy-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Justin's GitHub Stats" />
 
 
@@ -77,4 +70,3 @@ Hey! I’m a curious CSE student who loves building random stuff, learning by do
 ![Profile Views](https://komarev.com/ghpvc/?username=justinroy-01&label=Profile%20Views&color=0e75b6&style=flat)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
