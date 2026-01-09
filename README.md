@@ -1,72 +1,86 @@
-# 👋 Hey there! I'm Justin
+<div align="center">
 
-Aspiring Web & Software Developer  
-Welcome to my humble profile 😁
+  # 👋 Hi there, I'm Justin!
 
----
+  ### 👨‍💻 Aspiring Web & Software Developer
+  
+  *CSE Student | Builder | Problem Solver*
 
-# 💫 About Me:
-I’m a curious CSE student who loves building random stuff, learning by doing, and breaking things till they work 😄
+  <br/>
 
----
+  <p align="center">
+    I’m a curious Computer Science student who loves building software, learning by doing, and breaking things until they work. <br/>
+    My focus is on <b>Full Stack Development</b> and <b>Software Engineering</b>.
+  </p>
 
-## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/justinroy_____)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinroy01)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:justinr32274@gmail.com)
+  <br/>
 
----
+  <a href="https://instagram.com/justinroy_____" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/justinroy01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:justinr32274@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
+</div>
+
+<br/>
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/justin_roy?ext=heatmap)
+### 🛠️ Tech Stack
 
-# 📊 GitHub Stats:
+<div align="center">
 
-<img src="https://github-readme-stats-seven-drab-30.vercel.app/api?username=justinroy-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Justin's GitHub Stats" />
+| **Languages** | **Frontend** | **Backend & DB** | **Tools & Hosting** |
+|:---:|:---:|:---:|:---:|
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) <br> ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) <br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) <br> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) <br> ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) <br> ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) <br> ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) |
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinroy-01&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
-
----
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=justinroy-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-![Aactivity graph](https://github-readme-activity-graph.vercel.app/graph?username=justinroy-01&theme=tokyo-night)
-
-
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
-## 🔝 Top Contributed Repos:
-![](https://github-contributor-stats.vercel.app/api?username=justinroy-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📊 GitHub Analytics
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justinroy-01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    </td>
+    <td width="50%">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinroy-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=justinroy-01&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=justinroy-01&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🧩 LeetCode & Trophies
 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/justin_roy?ext=heatmap&theme=tokyonight" width="80%" alt="LeetCode Stats"/>
+  
+  <br/><br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=justinroy-01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=justinroy-01&label=Profile%20Views&color=0e75b6&style=flat)
+---
 
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=justinroy-01&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+</div>
