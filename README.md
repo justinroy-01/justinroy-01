@@ -49,11 +49,11 @@
 <table>
   <tr>
     <td width="50%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justinroy-01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justinroy-01&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
-    <td width="50%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinroy-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-    </td>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinroy-01&theme=tokyonight&hide_border=true" alt="Justin's Streak" />
+</div>
   </tr>
 </table>
 
